@@ -1,0 +1,1 @@
+This is a SQL Practice file where a new database is created and the queries are executed to get the data from the database. 

@@ -47,4 +47,8 @@ where first_name like "Jer%";
 
 select *
 from parks_and_recreation.employee_demographics
-where first_name like "%a%"
+where first_name like "%a%";
+
+select *
+from parks_and_recreation.employee_demographics
+where first_name like "a%"
